@@ -5,7 +5,7 @@
   
 <p>Olá, venha se aventurar no meu perfil GitHub!</p>
 
-Aprendendo Atualmente 📚
+Estou Aprendendo Atualmente 📚
 
 <div align=>
   <img height="20" src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java">
