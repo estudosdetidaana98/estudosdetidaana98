@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**estudosdetidaana98/estudosdetidaana98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>**Ana Eliza, 🐜  iniciante**</h1>
+  
+<p>Olá, venha se aventurar no meu perfil GitHub *-* </p>
+  
+![formiguinha](https://media.giphy.com/media/12Q9qZRnnab0T6/giphy.gif)
 
-Here are some ideas to get you started:
+## Aprendendo Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Aprendendo Java
+- 💻 Explorando Kotlin
+- 🔧 Experimentando Angular
+- 🐍 Iniciando em Python
+- 🌐 Desenvolvendo em JavaScript
+- 🕹️ Descobrindo C#
+- 🤖 Conhecendo C++
+
+
