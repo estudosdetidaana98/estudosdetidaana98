@@ -20,6 +20,9 @@ Estou Aprendendo Atualmente 📚
   <img height="20" src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" alt="Spring Boot">
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=estudosdetidaana98&color=brightgreen)](https://github.com/estudosdetidaana98)
 
 ![formiguinha](https://media.giphy.com/media/12Q9qZRnnab0T6/giphy.gif)
+
+![Ana Eliza GitHub Stats](https://github-readme-stats.vercel.app/api?username=estudosdetidaana98&show_icons=true&theme=radical)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=estudosdetidaana98&color=brightgreen)](https://github.com/estudosdetidaana98)
