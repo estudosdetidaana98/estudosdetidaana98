@@ -20,6 +20,8 @@ Estou Aprendendo Atualmente 📚
   <img height="20" src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" alt="Spring Boot">
 </div>
 
+[![GitHub stars](https://img.shields.io/github/stars/estudosdetidaana98/estudosdetidaana98.svg)](https://github.com/estudosdetidaana98/estudosdetidaana98/stargazers)
+
 
 ![formiguinha](https://media.giphy.com/media/12Q9qZRnnab0T6/giphy.gif)
 
