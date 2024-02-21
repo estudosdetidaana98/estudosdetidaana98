@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <h1>Ana Eliza *-* </h1>
-</h1>🐜 iniciante >></h1>
-  
-<p>Olá, venha se aventurar no meu perfil GitHub!</p>
+
+  <p>Olá, venha se aventurar no meu perfil GitHub!</p>
 
 Estou Aprendendo Atualmente 📚
 
