@@ -23,6 +23,3 @@ Estou Aprendendo Atualmente 📚
 
 
 ![formiguinha](https://media.giphy.com/media/12Q9qZRnnab0T6/giphy.gif)
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=estudosdetidaana98&color=brightgreen)](https://github.com/estudosdetidaana98)
